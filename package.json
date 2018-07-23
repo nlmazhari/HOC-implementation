@@ -1,0 +1,17 @@
+{
+  "name": "front-end-devtask",
+  "version": "1.0.0",
+  "description": "AMBOSS Next Front-End Dev Task",
+  "author": "AMBOSS Next",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "styled-components": "^3.3.0"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html --log-level 3 --open"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.8.1"
+  }
+}
